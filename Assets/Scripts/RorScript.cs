@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+// Script av Michal§
 public class RorScript : MonoBehaviour
 {
     float[] rotations = { 0, 90, 180, 270 };

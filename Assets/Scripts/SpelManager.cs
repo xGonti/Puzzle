@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+// Skript av Theo
 public class SpelManager : MonoBehaviour
 {
     public GameObject PipesHolder;
